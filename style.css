@@ -80,7 +80,7 @@ main h1{
 
 h2{
     font-family: idroid;
-    font-size: 1.5em;
+    font-size: 1.2em;
     color: var(--cor3);
     background-image: linear-gradient(to right, var(--cor1), transparent);
     padding-left: 10px;
@@ -108,7 +108,7 @@ main div{
     display: block;
     margin: auto;
     position: relative;
-    padding-bottom: 42%;
+    padding-bottom: 62%;
     margin: 0px -20px 30px -20px;
 }
 
